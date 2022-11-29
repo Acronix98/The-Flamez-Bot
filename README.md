@@ -1,1 +1,1 @@
-# TheFlamezBot
+# The Flamez Bot
